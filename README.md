@@ -1,4 +1,4 @@
-#Game proyect
+# Game proyect
 
 Para correr el jhuego debes seguir las siguientes instruccciones en la terminal:
 
